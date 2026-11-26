@@ -1,0 +1,6 @@
+{
+  "name": "CultureQuest AI",
+  "description": "Plataforma cultural interactiva para explorar museos, galerías y sitios históricos de Paraguay con mapa interactivo, Wikipedia, conversor de monedas en tiempo real y asistente Gemini.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
